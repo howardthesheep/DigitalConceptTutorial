@@ -1,6 +1,6 @@
 # DigitalConceptTutorial
 
-##By Parker Jones
+## By Parker Jones
 
-#Introduction
-##
+# Introduction
+
